@@ -1,0 +1,11 @@
+{
+    "todolist": [
+        {
+            "id": 1,
+            "item": "Study Angular"
+        },
+        {
+            "id": 2,
+            "item": "Study Javascript"
+        }
+    }
